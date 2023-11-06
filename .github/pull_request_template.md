@@ -4,11 +4,11 @@
 
 Select the following as confirmation that the files in this repository are complete.
 
-- [ ] Career Readiness
-- [ ] Coding with AI
-- [ ] Interview Questions
-- [ ] JavaScript Challenges
-- [ ] Ruby Challenges
+- [✅] Career Readiness
+- [✅] Coding with AI
+- [✅] Interview Questions
+- [✅] JavaScript Challenges
+- [✅] Ruby Challenges
 
 ### ✋ Reminder
 
